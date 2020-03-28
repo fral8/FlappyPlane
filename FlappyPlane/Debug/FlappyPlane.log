@@ -1,0 +1,5 @@
+﻿  FlappyPlane.cpp
+c:\users\frana\documents\visual studio 2015\projects\flappyplane\flappyplane\flappyplane.cpp(142): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\frana\documents\visual studio 2015\projects\flappyplane\flappyplane\flappyplane.cpp(146): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  FlappyPlane.vcxproj -> C:\Users\frana\Documents\Visual Studio 2015\Projects\FlappyPlane\Debug\FlappyPlane.exe
+  FlappyPlane.vcxproj -> C:\Users\frana\Documents\Visual Studio 2015\Projects\FlappyPlane\Debug\FlappyPlane.pdb (Full PDB)
